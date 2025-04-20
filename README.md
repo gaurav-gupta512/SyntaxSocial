@@ -1,3 +1,8 @@
+#Description 
+
+- Developed "SyntaxSocial" – a full-stack coder community platform using Next.js with real-time chat via GetStream and secure auth via Clerk.
+- Implemented dynamic forums, user-specific access, and seamless UX without external databases, showcasing clean serverless integration.
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
