@@ -18,7 +18,7 @@ import 'stream-chat-react/dist/css/v2/index.css';
 
 const Chatforum = ({ clerkUser, slug }) => {
 
-    const apiKey = "kvd3hcehksac";
+    const apiKey = "Stream_Api_key";
       const userId = clerkUser.id;
       const userName = clerkUser.name;
       const userToken = clerkUser.token;
