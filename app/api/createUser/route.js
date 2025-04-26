@@ -1,10 +1,9 @@
 import { StreamChat } from "stream-chat";
 import { clerkClient } from '@clerk/nextjs/server'
 
-const api_key = "kvd3hcehksac";
+const api_key = "Api_Key";
 const api_secret =
-  "ygr9t4pvzq9ubnqsgkxj358agbt9f5b6a393n7gv9pydrfxvhkxfxxc3faup4q4b";
-
+  "Api_Secret";
 export async function POST(request) {
   // Initialize a Server Client
   const serverClient = StreamChat.getInstance(api_key, api_secret);
